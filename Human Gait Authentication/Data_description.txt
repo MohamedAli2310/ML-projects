@@ -1,0 +1,11 @@
+The dataset contains arm movement patterns from 5 users collected using a smartwatch.
+Every folder has 2 subfolders, one contains the data for training and another for testing.
+Every Training and Testing folder has three files, namely, Accelerometer_Data.txt, Gyroscope_Data.txt, and Profile.txt.
+As the names suggest Accelerometer_Data.txt contains Accelerometer Readings, Gyroscope_Data.txt contains gyroscope readings,
+whereas, Profile contains, Age, Gender, and the dominant hand.
+
+The columns in the data files (e.g, Accelerometer_Data.txt) are as follows:
+
+<AccX, AccY, AccZ, Timestamps>
+
+
