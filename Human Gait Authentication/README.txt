@@ -1,4 +1,4 @@
-Description:
+## Description
 Given a dataset of arm movement patterns collected from 5 individuals while they walked in a standard corridor.
 The data was collected in two different sessions.
 The data collected for the same user in different sessions is supposed to be similar (known as intra-user similarity)
