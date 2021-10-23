@@ -1,1 +1,2 @@
-ML projects
+## Description
+Independent and class ML projects.
