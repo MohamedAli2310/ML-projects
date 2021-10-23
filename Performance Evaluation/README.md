@@ -1,3 +1,6 @@
+## Description
+
+Performance Evaluation practice project to learn more about ROC and DET curves, EER, FAR, FRR, and TAR.
 compared the performances of B1, B2, and B3 using the following metrics:
 (1) ROC plots (https://people.inf.elte.hu/kiss/11dwhdm/roc.pdf)
 (2) DET plots (similar to ROC except the fact that it plots FAR vs. FRR instead TAR vs. FPR
