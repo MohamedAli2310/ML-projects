@@ -6,8 +6,6 @@ while the data collected from different users, regardless of the session, are su
 inter-user dissimilarity from each other.
 
 The data is stored in the following folder structure: (More details are provided in Data_description.txt)
-<Dataset>/<UserId>/<Training>
-<Dataset>/<UserId>/<Testing>
 
 Implemented:
 (1) Preprocessor 
